@@ -346,7 +346,7 @@ ul#nav li.current a { color: #F06000; }
 	-webkit-animation: vhdl 2s ease;
 }
 .vhdl {
-	width: 40%;
+	width: 45%;
 	-moz-animation: vhdl 2s ease;
 	-webkit-animation: vhdl 2s ease;
 }
@@ -384,7 +384,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes vhdl {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes vhdl {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 45%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
